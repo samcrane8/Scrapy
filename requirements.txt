@@ -1,2 +1,5 @@
 Scrapy==0.24.4
 service_identity==14.0.0
+Django==1.7
+    
+
